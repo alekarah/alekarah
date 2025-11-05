@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Привет! Я Александра Саганелидзе
 
-<!--
-**alekarah/alekarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer (Go / Python)**  
+🎓 Выпускница курса [«Go-разработчик с нуля» (Яндекс Практикум)](https://practicum.yandex.ru/go-developer/)  
+📘 Прохожу курс [«Профессия Python-разработчик» (ProductStar)](https://productstar.ru/course/dev-python-prof)  
+🧩 Разрабатываю проекты “под ключ” — от backend-архитектуры до frontend-интерфейса  
+⚙️ Использую AI-инструменты для оптимизации кода и ускорения рутинных задач
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Языки:** Go · Python · SQL  
+**Backend:** Gin · Flask · Django REST · GORM  
+**Frontend:** HTML · CSS · JavaScript (Vanilla) · адаптивная верстка  
+**Базы данных:** PostgreSQL · SQLite  
+**Инфраструктура:** Docker · Docker Compose · Nginx  
+**Инструменты:** Git · GitHub · CI/CD · Linux  
+**Подходы:** REST API · ООП · SOLID · Agile · Scrum
+
+---
+
+## 💼 Коммерческие проекты
+
+### [🖥️ LED Screen Website (доступ по запросу)]()
+> Корпоративный веб-сайт с CRM и административной панелью  
+> Go · PostgreSQL · Docker · GORM · Gin · HTML/CSS/JS  
+
+- 🔐 Безопасная авторизация (JWT, bcrypt)  
+- 📊 Dashboard с аналитикой  
+- 📁 CRUD-панель управления проектами  
+- 💾 Экспорт данных в CSV  
+- 🧩 Docker Compose и миграции при запуске  
+
+📫 Репозиторий приватный — доступ предоставляется по запросу.  
+
+---
+
+### 🎨 Portfolio Website for Artist *(в разработке)*
+> Современное веб-приложение-портфолио для художника  
+> Полный цикл разработки: backend + frontend  
+> Планируется использование **современных инструментов для верстки** (Tailwind / React / Next.js)
+
+---
+
+## 🐾 Pet Projects
+
+- [🔐 CLI Password Generator](https://github.com/alekarah/cli-password-generator) — генератор безопасных паролей (Go + Python)  
+- [✅ CLI Task Manager](https://github.com/alekarah/cli-task-manager) — менеджер задач с сохранением в JSON (Go + Python) 
+
+---
+
+## 🎓 Учебные проекты
+
+- [🎓 Go Course Examples](https://github.com/alekarah?tab=stars&list=Go-Course-Examples)  
+  Примеры и мини-проекты из курса **«Go-разработчик с нуля»**  
+  > Алгоритмы, REST API, базы данных, тестирование, Docker  
+
+---
+
+## 🔧 В планах
+
+Разрабатываю pet-проекты от простых CLI-утилит до полноценных веб-приложений:
+
+- ⚙️ CLI-инструменты (менеджер задач, генератор паролей, конвертер валют)  
+- 🌐 Веб-приложения (сокращатель ссылок, блог, REST API для книг/фильмов)  
+- 🧠 Утилиты для разработчиков (парсер логов, синхронизатор файлов)  
+- 💾 Системные проекты (HTTP-сервер, Telegram-бот, консольный чат)  
+- 🗄️ Приложения с базами данных (учёт расходов, менеджер заметок, Twitter-клон)  
+
+---
+
+## 🌱 Сейчас изучаю
+
+- Django и Django REST Framework  
+- Асинхронность и многопоточность  
+- CI/CD и деплой приложений  
+- Оптимизацию SQL-запросов  
+
+---
+
+## 📫 Контакты
+
+[![Gmail Badge](https://img.shields.io/badge/-alekarah.all@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekarah.all@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-alekarah-181717?style=for-the-badge&logo=github)](https://github.com/alekarah)
+
+---
+
+⭐ Если вам понравились мои проекты — поддержите звёздочкой :)
