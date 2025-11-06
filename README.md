@@ -1,5 +1,7 @@
 # 👋 Привет! Я Александра Саганелидзе
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=900&color=0CA6A6&width=700&lines=Разрабатываю+backend+на+Go+и+Python;Создаю+чистый+и+поддерживаемый+код;Всегда+открыта+к+новым+возможностям)](#)
+
 💻 **Backend Developer (Go / Python)**  
 
 [![Status Badge](https://img.shields.io/badge/🐱‍💻_Открыта_к_новым_проектам_и_сотрудничеству-0CA6A6?style=for-the-badge&logoColor=white)]()
