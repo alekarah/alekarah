@@ -1,10 +1,10 @@
 # 👋 Привет! Я Александра Саганелидзе
 
 💻 **Backend Developer (Go / Python)**  
-🎓 Выпускница курса [«Go-разработчик с нуля» (Яндекс Практикум)](https://practicum.yandex.ru/go-developer/)  
-📘 Прохожу курс [«Профессия Python-разработчик» (ProductStar)](https://productstar.ru/course/dev-python-prof)  
+
+🐱‍💻 В поиске работы/проектов
 🧩 Разрабатываю проекты “под ключ” — от backend-архитектуры до frontend-интерфейса  
-⚙️ Использую AI-инструменты для оптимизации кода и ускорения рутинных задач
+
 
 ---
 
@@ -91,6 +91,7 @@
 
 ## 📫 Контакты
 
+[![Telegram Badge](https://img.shields.io/badge/-@alekarah-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alekarah)
 [![Gmail Badge](https://img.shields.io/badge/-alekarah.all@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekarah.all@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-alekarah-181717?style=for-the-badge&logo=github)](https://github.com/alekarah)
 
