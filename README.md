@@ -32,18 +32,20 @@
 
 ## 💼 Коммерческие проекты
 
-### [🖥️ LED Screen Website (доступ по запросу)]()
-> Корпоративный веб-сайт с CRM и административной панелью  
-> Go · PostgreSQL · Docker · GORM · Gin · HTML/CSS/JS  
+### [🖥️ LED Screen Website](https://github.com/alekarah/led-screen-website)
+> Корпоративный веб-сайт для компании по продаже, ремонту и обслуживанию LED-дисплеев  
+> Проект развёрнут в **production** — [s-n-r.ru](https://s-n-r.ru)  
+> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS
 
+- 🎨 Современный адаптивный дизайн  
 - 🔐 Безопасная авторизация (JWT, bcrypt)  
-- 📊 Dashboard с аналитикой  
-- 📁 CRUD-панель управления проектами  
-- 💾 Экспорт данных в CSV  
-- 🧩 Docker Compose и миграции при запуске  
+- 📊 CRM-система для управления заявками  
+- 🖼️ Редактор изображений и портфолио  
+- 📈 Встроенная аналитика и экспорт данных в CSV  
+- ⚙️ Docker Compose и автоматические миграции при запуске  
 
-📫 Репозиторий приватный — доступ предоставляется по запросу.  
-
+📄 Репозиторий открыт: [alekarah/led-screen-website](https://github.com/alekarah/led-screen-website)  
+🌐 Рабочий сайт: [https://s-n-r.ru](https://s-n-r.ru)
 ---
 
 ### 🎨 Portfolio Website for Artist *(в разработке)*
