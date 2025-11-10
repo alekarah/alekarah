@@ -19,6 +19,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SEO Ready](https://img.shields.io/badge/SEO_Ready-0CA6A6?style=for-the-badge&logo=google&logoColor=white)
 
 **Языки:** Go · Python · SQL  
 **Backend:** Gin · Flask · Django REST · GORM  
@@ -41,7 +42,8 @@
 - 🔐 Безопасная авторизация (JWT, bcrypt)  
 - 📊 CRM-система для управления заявками  
 - 🖼️ Редактор изображений и портфолио  
-- 📈 Встроенная аналитика и экспорт данных в CSV  
+- 📈 Встроенная аналитика и экспорт данных в CSV
+- 🔍 SEO-оптимизация (sitemap.xml, robots.txt, метаданные для поисковых систем)  
 - ⚙️ Docker Compose и автоматические миграции при запуске  
 
 📂 [Репозиторий](https://github.com/alekarah/led-screen-website) · 🌐 [Сайт](https://s-n-r.ru)
