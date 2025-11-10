@@ -44,8 +44,8 @@
 - 📈 Встроенная аналитика и экспорт данных в CSV  
 - ⚙️ Docker Compose и автоматические миграции при запуске  
 
-📄 Репозиторий открыт: [alekarah/led-screen-website](https://github.com/alekarah/led-screen-website)  
-🌐 Рабочий сайт: [https://s-n-r.ru](https://s-n-r.ru)
+📂 [Репозиторий](https://github.com/alekarah/led-screen-website) · 🌐 [Сайт](https://s-n-r.ru)
+
 ---
 
 ### 🎨 Portfolio Website for Artist *(в разработке)*
