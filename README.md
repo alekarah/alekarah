@@ -20,14 +20,16 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![SEO Ready](https://img.shields.io/badge/SEO_Ready-0CA6A6?style=for-the-badge&logo=google&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Passed-2E8B57?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-7B68EE?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Языки:** Go · Python · SQL  
 **Backend:** Gin · Flask · Django REST · GORM  
 **Frontend:** HTML · CSS · JavaScript (Vanilla) · адаптивная верстка  
 **Базы данных:** PostgreSQL · SQLite  
 **Инфраструктура:** Docker · Docker Compose · Nginx  
-**Инструменты:** Git · GitHub · CI/CD · Linux  
-**Подходы:** REST API · ООП · SOLID · Agile · Scrum
+**Инструменты:** Git · GitHub Actions · CI/CD · Linux · Unit Tests  
+**Подходы:** REST API · ООП · SOLID · Agile · Scrum · SEO Optimization
 
 ---
 
@@ -42,9 +44,11 @@
 - 🔐 Безопасная авторизация (JWT, bcrypt)  
 - 📊 CRM-система для управления заявками  
 - 🖼️ Редактор изображений и портфолио  
-- 📈 Встроенная аналитика и экспорт данных в CSV
+- 📈 Встроенная аналитика и экспорт данных в CSV  
 - 🔍 SEO-оптимизация (sitemap.xml, robots.txt, метаданные для поисковых систем)  
-- ⚙️ Docker Compose и автоматические миграции при запуске  
+- 🧪 Unit-тесты с покрытием ключевых модулей  
+- ⚙️ CI/CD (GitHub Actions: тесты, линтинг, сборка, coverage)  
+- 🐳 Docker Compose и автоматические миграции при запуске  
 
 📂 [Репозиторий](https://github.com/alekarah/led-screen-website) · 🌐 [Сайт](https://s-n-r.ru)
 
