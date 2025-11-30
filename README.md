@@ -38,17 +38,18 @@
 ### [🖥️ LED Screen Website](https://github.com/alekarah/led-screen-website)
 > Корпоративный веб-сайт для компании по продаже, ремонту и обслуживанию LED-дисплеев  
 > Проект развёрнут в **production** — [s-n-r.ru](https://s-n-r.ru)  
-> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS
+> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · CI/CD · Unit Tests · SEO Ready
 
 - 🎨 Современный адаптивный дизайн  
 - 🔐 Безопасная авторизация (JWT, bcrypt)  
 - 📊 CRM-система для управления заявками  
-- 🖼️ Редактор изображений и портфолио  
+- 🖼️ Редактор изображений и thumbnails
 - 📈 Встроенная аналитика и экспорт данных в CSV  
 - 🔍 SEO-оптимизация (sitemap.xml, robots.txt, метаданные для поисковых систем)  
 - 🧪 Unit-тесты с покрытием ключевых модулей  
-- ⚙️ CI/CD (GitHub Actions: тесты, линтинг, сборка, coverage)  
-- 🐳 Docker Compose и автоматические миграции при запуске  
+- ⚙️ CI/CD (GitHub Actions + Codecov: тесты, линтинг, деплой) 
+- 🐳 Docker Compose, автоматические миграции и деплой скрипты
+- 🛡️ Production-grade безопасность и ежедневные бэкапы
 
 📂 [Репозиторий](https://github.com/alekarah/led-screen-website) · 🌐 [Сайт](https://s-n-r.ru)
 
