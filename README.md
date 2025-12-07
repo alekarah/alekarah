@@ -19,17 +19,18 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![SEO Ready](https://img.shields.io/badge/SEO_Ready-0CA6A6?style=for-the-badge&logo=google&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests-Passed-2E8B57?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS%2FCDN-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-7B68EE?style=for-the-badge&logo=githubactions&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Passed-2E8B57?style=for-the-badge&logo=githubactions&logoColor=white)
+![SEO Ready](https://img.shields.io/badge/SEO_Ready-0CA6A6?style=for-the-badge&logo=google&logoColor=white)
 
 **Языки:** Go · Python · SQL  
 **Backend:** Gin · Flask · Django REST · GORM  
-**Frontend:** HTML · CSS · JavaScript (Vanilla) · адаптивная верстка  
+**Frontend:** HTML · CSS · JavaScript (Vanilla)  
 **Базы данных:** PostgreSQL · SQLite  
-**Инфраструктура:** Docker · Docker Compose · Nginx  
-**Инструменты:** Git · GitHub Actions · CI/CD · Linux · Unit Tests  
-**Подходы:** REST API · ООП · SOLID · Agile · Scrum · SEO Optimization
+**Инфраструктура:** Docker · Docker Compose · Nginx · **Cloudflare DNS/CDN**  
+**Инструменты:** Git · GitHub Actions · Unit Tests · CI/CD · Linux  
+**Подходы:** REST API · ООП · SOLID · Agile · Scrum · SEO Optimization · Security Headers
 
 ---
 
@@ -38,7 +39,7 @@
 ### [🖥️ LED Screen Website](https://github.com/alekarah/led-screen-website)
 > Корпоративный веб-сайт для компании по продаже, ремонту и обслуживанию LED-дисплеев  
 > Проект развёрнут в **production** — [s-n-r.ru](https://s-n-r.ru)  
-> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · CI/CD · Unit Tests · SEO Ready
+> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · Cloudflare · CI/CD · Unit Tests · SEO Ready
 
 - 🎨 Современный адаптивный дизайн  
 - 🔐 Безопасная авторизация (JWT, bcrypt)  
@@ -47,7 +48,9 @@
 - 📈 Встроенная аналитика и экспорт данных в CSV  
 - 🔍 SEO-оптимизация (sitemap.xml, robots.txt, метаданные для поисковых систем)  
 - 🧪 Unit-тесты с покрытием ключевых модулей  
-- ⚙️ CI/CD (GitHub Actions + Codecov: тесты, линтинг, деплой) 
+- ⚙️ CI/CD (GitHub Actions + Codecov: тесты, линтинг, деплой)
+- 🛡️ Security Headers (X-Frame-Options, X-Content-Type-Options, XSS Protection)  
+- 🌐 Cloudflare: DNS, CDN, SSL, кеширование и минификация
 - 🐳 Docker Compose, автоматические миграции и деплой скрипты
 - 🛡️ Production-grade безопасность и ежедневные бэкапы
 
@@ -84,7 +87,8 @@
   
 - 🌐 Веб-приложения (сокращатель ссылок, блог, REST API для книг/фильмов)  
 - 🧠 Утилиты для разработчиков (парсер логов, синхронизатор файлов)  
-- 💾 Системные проекты (HTTP-сервер, Telegram-бот, консольный чат)  
+- 🤖 Telegram-бот на Python  
+- 💾 Системные проекты (HTTP-сервер, консольный чат)  
 - 🗄️ Приложения с базами данных (учёт расходов, менеджер заметок, Twitter-клон)  
 
 ---
