@@ -28,9 +28,9 @@
 **Backend:** Gin · Flask · Django REST · GORM  
 **Frontend:** HTML · CSS · JavaScript (Vanilla)  
 **Базы данных:** PostgreSQL · SQLite  
-**Инфраструктура:** Docker · Docker Compose · Nginx · **Cloudflare DNS/CDN**  
+**Инфраструктура:** Docker · Docker Compose · Nginx · Cloudflare DNS/CDN · systemd · fail2ban · UFW Firewall
 **Инструменты:** Git · GitHub Actions · Unit Tests · CI/CD · Linux  
-**Подходы:** REST API · ООП · SOLID · Agile · Scrum · SEO Optimization · Security Headers
+**Подходы:** REST API · ООП · SOLID · Agile · Scrum · SEO Optimization · Security Headers · Automated Backups · Zero-Downtime Deployment
 
 ---
 
@@ -39,18 +39,18 @@
 ### [🖥️ LED Screen Website](https://github.com/alekarah/led-screen-website)
 > Корпоративный веб-сайт для компании по продаже, ремонту и обслуживанию LED-дисплеев  
 > Проект развёрнут в **production** — [s-n-r.ru](https://s-n-r.ru)  
-> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · Cloudflare · CI/CD · Unit Tests · SEO Ready
+> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · Cloudflare CDN · CI/CD · Unit Tests · Telegram Bot · Security Headers · SEO Ready
 
 - 🎨 Современный адаптивный дизайн  
 - 🔐 Безопасная авторизация (JWT, bcrypt)  
-- 📊 CRM-система для управления заявками  
-- 🖼️ Редактор изображений и thumbnails
+- 📊 CRM-система для управления заявками
+- 📲 Telegram-бот для уведомлений и напоминаний
+- 🖼️ WebP thumbnails и система обрезки изображений
 - 📈 Встроенная аналитика и экспорт данных в CSV  
 - 🔍 SEO-оптимизация (sitemap.xml, robots.txt, метаданные для поисковых систем)  
 - 🧪 Unit-тесты с покрытием ключевых модулей  
 - ⚙️ CI/CD (GitHub Actions + Codecov: тесты, линтинг, деплой)
-- 🛡️ Security Headers (X-Frame-Options, X-Content-Type-Options, XSS Protection)  
-- 🌐 Cloudflare: DNS, CDN, SSL, кеширование и минификация
+- 🛡️ Security Headers и защита инфраструктуры (Cloudflare, fail2ban, UFW)  
 - 🐳 Docker Compose, автоматические миграции и деплой скрипты
 - 🛡️ Production-grade безопасность и ежедневные бэкапы
 
@@ -87,18 +87,8 @@
   
 - 🌐 Веб-приложения (сокращатель ссылок, блог, REST API для книг/фильмов)  
 - 🧠 Утилиты для разработчиков (парсер логов, синхронизатор файлов)  
-- 🤖 Telegram-бот на Python  
 - 💾 Системные проекты (HTTP-сервер, консольный чат)  
 - 🗄️ Приложения с базами данных (учёт расходов, менеджер заметок, Twitter-клон)  
-
----
-
-## 🌱 Сейчас изучаю
-
-- Django и Django REST Framework  
-- Асинхронность и многопоточность  
-- CI/CD и деплой приложений  
-- Оптимизацию SQL-запросов  
 
 ---
 
