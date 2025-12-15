@@ -66,11 +66,24 @@ Backend-разработчик с опытом коммерческой разр
 - 🐳 Docker Compose, автоматические миграции и деплой скрипты
 - 🛡️ Production-grade безопасность и ежедневные бэкапы
 
-📂 [Репозиторий](https://github.com/alekarah/led-screen-website) · 🌐 [Сайт](https://s-n-r.ru)
+---
+
+## 🧩 Pet Projects
+
+### [🔗 URL Shortener Service](https://github.com/alekarah/url-shortener-go)
+
+Backend-сервис для сокращения ссылок и аналитики переходов  
+Go · PostgreSQL · Redis · Docker
+
+- Сокращение URL и кастомные short codes  
+- Аналитика кликов (IP, User-Agent, referrer, дата)  
+- Redis-кеширование для быстрых редиректов  
+- Clean Architecture (handlers / services / repositories)  
+- SQL-миграции и Docker Compose  
 
 ---
 
-## 🐾 Pet Projects
+## 🧪 CLI Projects
 
 - [🔐 CLI Password Generator](https://github.com/alekarah/cli-password-generator) — генератор безопасных паролей (Go + Python)  
 - [✅ CLI Task Manager](https://github.com/alekarah/cli-task-manager) — менеджер задач с сохранением в JSON (Go + Python)
