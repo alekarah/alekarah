@@ -25,19 +25,20 @@ Backend-разработчик с коммерческим опытом разр
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-7B68EE?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Языки:** Go · Python · SQL  
-**Backend:** Gin · Flask · Django REST · GORM  
+**Backend:** Gin · GORM · Redis
 **Frontend:** HTML · CSS · JavaScript (Vanilla)  
 **Базы данных:** PostgreSQL · SQLite  
 **Инфраструктура:** Docker · Docker Compose · Nginx · systemd · fail2ban · UFW Firewall
-**Инструменты:** Git · GitHub Actions · Unit Tests · CI/CD · Linux  
-**Подходы:** REST API · ООП · SOLID · Agile · Scrum · SEO Optimization · Security Headers · Automated Backups · Zero-Downtime Deployment
+**Инструменты:** Git · GitHub Actions · pytest · CI/CD · Linux
+**Подходы:** REST API · ООП · SOLID · Security Headers
 
 ---
 
@@ -48,17 +49,12 @@ Backend-разработчик с коммерческим опытом разр
 > Проект развёрнут в **production** — [s-n-r.ru](https://s-n-r.ru)  
 > Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · CI/CD · Unit Tests · Telegram Bot · Security Headers · SEO Ready
 
-- 🎨 Современный адаптивный дизайн  
-- 🔐 Безопасная авторизация (JWT, bcrypt)  
-- 📊 CRM-система для управления заявками
-- 📲 Telegram-бот для уведомлений и напоминаний
-- 🖼️ WebP thumbnails и система обрезки изображений
-- 📈 Встроенная аналитика и экспорт данных в CSV  
-- 🔍 SEO-оптимизация (sitemap.xml, robots.txt, метаданные для поисковых систем)  
-- 🧪 Unit-тесты с покрытием ключевых модулей  
-- ⚙️ CI/CD (GitHub Actions + Codecov: тесты, линтинг, деплой)
-- 🛡️ Security Headers, fail2ban, UFW, ежедневные бэкапы
-- 🐳 Docker Compose, автоматические миграции и деплой скрипты
+- 🔐 Авторизация (JWT, bcrypt) и CRM для управления заявками
+- 📲 Telegram-бот с интерактивными кнопками и автонапоминаниями
+- 🖼️ WebP thumbnails с редактором обрезки (экономия 25-35% размера)
+- 📊 Встроенная аналитика + Яндекс.Метрика, экспорт в CSV
+- 🧪 75 unit-тестов (36% покрытие), CI/CD через GitHub Actions
+- 🛡️ Production-grade безопасность и ежедневные бэкапы
 
 ---
 
@@ -84,26 +80,22 @@ Backend-разработчик с коммерческим опытом разр
 > **✅ Запущен в production** на VPS (Beget) · живая аудитория подписчиков
 > Python · python-telegram-bot · SQLite · APScheduler · pytest · systemd
 
-- 💭 Случайные цитаты стоиков
-- 📅 366 ежедневных размышлений из "Стоицизм на каждый день"
+- 📅 366 ежедневных размышлений + случайные цитаты стоиков
 - ⏰ Система подписок с гибким расписанием (утро/день/вечер)
 - ❤️ Избранное и шаринг цитат
 - 📚 Библиотека книг для скачивания (fb2, epub, mobi)
-- 🛠️ Админ-панель через Telegram и CLI
-- 🔍 Поиск дубликатов через TF-IDF
+- 🛠️ Админ-панель через Telegram и CLI + поиск дубликатов (TF-IDF)
 - 🚀 Автозапуск через systemd, деплой через Git
 
 ### [🔗 URL Shortener Service](https://github.com/alekarah/url-shortener-go)
 > Backend-сервис для сокращения ссылок с веб-интерфейсом и аналитикой  
 > Go · PostgreSQL · Redis · Docker · HTML/CSS/JS
 
-- Сокращение URL и кастомные short codes
-- Веб-интерфейс для создания и просмотра ссылок
-- Аналитика кликов (IP, User-Agent, referrer, дата)
-- Список всех ссылок с пагинацией (20 ссылок/страница)
-- Redis-кеширование для быстрых редиректов
-- Clean Architecture (handlers / services / repositories)
-- SQL-миграции и Docker Compose
+- 🔗 Сокращение URL с кастомными short codes и веб-интерфейсом
+- 📊 Аналитика кликов (IP, User-Agent, referrer) с пагинацией
+- ⚡ Redis-кеширование для быстрых редиректов
+- 🏗️ Clean Architecture (handlers / services / repositories)
+- 🐳 SQL-миграции и Docker Compose
 
 ---
 
