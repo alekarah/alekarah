@@ -33,11 +33,11 @@ Backend-разработчик с коммерческим опытом разр
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Языки:** Go · Python · SQL  
-**Backend:** Gin · GORM · Redis
+**Backend:** Gin · GORM · Redis  
 **Frontend:** HTML · CSS · JavaScript (Vanilla)  
 **Базы данных:** PostgreSQL · SQLite  
-**Инфраструктура:** Docker · Docker Compose · Nginx · systemd · fail2ban · UFW Firewall
-**Инструменты:** Git · GitHub Actions · pytest · CI/CD · Linux
+**Инфраструктура:** Docker · Docker Compose · Nginx · systemd · fail2ban · UFW Firewall  
+**Инструменты:** Git · GitHub Actions · pytest · CI/CD · Linux  
 **Подходы:** REST API · ООП · SOLID · Security Headers
 
 ---
