@@ -34,7 +34,7 @@ Backend-разработчик с коммерческим опытом разр
 
 **Языки:** Go · Python · SQL  
 **Backend:** Gin · GORM · Redis  
-**Frontend:** HTML · CSS · JavaScript (Vanilla)  
+**Frontend:** HTML · CSS · JavaScript (Vanilla) · Go Templates  
 **Базы данных:** PostgreSQL · SQLite  
 **Инфраструктура:** Docker · Docker Compose · Nginx · systemd · fail2ban · UFW Firewall  
 **Инструменты:** Git · GitHub Actions · pytest · CI/CD · Linux  
@@ -55,6 +55,16 @@ Backend-разработчик с коммерческим опытом разр
 - 📊 Встроенная аналитика + Яндекс.Метрика, экспорт в CSV
 - 🧪 75 unit-тестов (36% покрытие), CI/CD через GitHub Actions
 - 🛡️ Production-grade безопасность и ежедневные бэкапы
+
+### [🌿 Репетитор — сайт-визитка](https://github.com/alekarah/teacher-anv-site)
+> Сайт-визитка репетитора начальных классов  
+> Go · Gin · HTML/CSS/JS (Vanilla) · Nginx · systemd
+
+- 🍃 Авторская анимация смены сезонов с иллюстрациями (весна / лето / осень / зима)
+- ✨ Световые и волновые частицы на hero-секции (CSS keyframes)
+- 🎨 Адаптивный хедер — меняет цвет при переходе между секциями
+- 📬 Форма обратной связи с модальным окном
+- 🚀 Деплой: VPS + Nginx + systemd
 
 ---
 
