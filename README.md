@@ -75,7 +75,7 @@ Backend-разработчик с коммерческим опытом.
 
 ### [🇷🇺 Uber Go Style Guide (Russian Translation)](https://github.com/alekarah/uber-go-guide-ru)
 > Актуальный русский перевод авторитетного руководства по Go от команды Uber  
-> [![PR Status](https://img.shields.io/badge/PR%20%23256-Pending-yellow?logo=github)](https://github.com/uber-go/guide/pull/256)
+> [![PR Status](https://img.shields.io/badge/PR%20%23256-Merged-purple?logo=github)](https://github.com/uber-go/guide/pull/256)
 
 - ✅ **Все 58 разделов** полностью переведены на русский язык
 - 📌 Синхронизирован с последней версией оригинала
