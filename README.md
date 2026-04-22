@@ -37,7 +37,7 @@ Backend-разработчик с коммерческим опытом.
 
 **Языки:** Go · Python · SQL  
 **Backend:** Gin · GORM · Redis  
-**Frontend:** HTML · CSS · JavaScript (Vanilla) · Go Templates  
+**Frontend:** HTML · CSS · JavaScript (Vanilla) · Go Templates · React · TypeScript  
 **Базы данных:** PostgreSQL · SQLite  
 **Инфраструктура:** Docker · Docker Compose · Nginx · systemd · fail2ban · UFW Firewall  
 **Инструменты:** Git · GitHub Actions · pytest · CI/CD · Linux  
@@ -115,7 +115,7 @@ Backend-разработчик с коммерческим опытом.
 ## 🧪 CLI Projects
 
 - [🔐 CLI Password Generator](https://github.com/alekarah/cli-password-generator) — генератор безопасных паролей (Go + Python)  
-- [✅ CLI Task Manager](https://github.com/alekarah/cli-task-manager) — менеджер задач с сохранением в JSON (Go + Python)
+- [✅ CLI Task Manager](https://github.com/alekarah/cli-task-manager) — менеджер задач с сохранением в JSON и браузерным Terminal UI (Go + Python + React/TypeScript)
 - [💱 CLI Currency Converter](https://github.com/alekarah/cli-currency-converter) — конвертер валют с загрузкой актуальных курсов через API (Go + Python)
 
 ---
