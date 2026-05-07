@@ -47,16 +47,18 @@ Backend-разработчик с коммерческим опытом.
 
 ## 💼 Коммерческие проекты
 
-### [🖥️ LED Screen Website](https://github.com/alekarah/led-screen-website)
+### 🖥️ LED Screen Website
 > Корпоративный веб-сайт для компании по продаже, ремонту и обслуживанию LED-дисплеев  
 > Проект развёрнут в **production** — [s-n-r.ru](https://s-n-r.ru)  
+> ⚠️ Репозиторий приватный по просьбе заказчика. Код доступен по запросу.  
 > Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · CI/CD · Unit Tests · Telegram Bot · Security Headers · SEO Ready
 
 - 🔐 Авторизация (JWT, bcrypt) и CRM для управления заявками
 - 📲 Telegram-бот с интерактивными кнопками и автонапоминаниями
 - 🖼️ WebP thumbnails с редактором обрезки (экономия 25-35% размера)
 - 📊 Встроенная аналитика + Яндекс.Метрика, экспорт в CSV
-- 🧪 253 unit-теста + 14 smoke-тестов, CI/CD через GitHub Actions + Codecov
+- ⚡ Оптимизация производительности: inline critical CSS, самохостинг шрифтов, HTTP/2, nginx gzip, долгосрочный кэш статики
+- 🧪 268 unit-тестов + 14 smoke-тестов, CI/CD через GitHub Actions + Codecov
 - 🛡️ Production-grade безопасность и ежедневные бэкапы
 
 ### [🌿 Репетитор — сайт-визитка](https://github.com/alekarah/teacher-anv-site)
