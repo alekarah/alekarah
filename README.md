@@ -19,7 +19,7 @@ Building AI-powered insurance platform — from appliance photo recognition to p
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Current:** TypeScript · Next.js · React · Supabase · Stripe · Claude AI · Vercel
+**Current:** TypeScript · Next.js · React · Supabase · Stripe · Claude AI · Vercel  
 **Previous:** Go · Gin · Python · Redis · Docker · Nginx · Linux
 
 ---
@@ -27,10 +27,10 @@ Building AI-powered insurance platform — from appliance photo recognition to p
 ## 💼 Current Project
 
 ### EasyBear Insurance
-> AI-powered appliance identification and home warranty platform
-> ⚠️ Private repository
+> AI-powered appliance identification and home warranty platform  
+> ⚠️ Private repository  
+> Next.js 16 · TypeScript · Supabase · Stripe · Claude Vision API · Vercel
 
-- 🏗️ Full-stack platform: Next.js 16 (App Router), TypeScript, Supabase, Stripe
 - 🤖 Claude Vision API for appliance photo recognition → instant specs and insurance quotes
 - 📊 94,000+ appliance models, 31 database tables, 237 tests
 - 🛡️ AI fraud scoring engine (customer + technician), capitation payment model
@@ -42,24 +42,24 @@ Building AI-powered insurance platform — from appliance photo recognition to p
 ## 💼 Previous Commercial Projects
 
 ### 🖥️ LED Screen Website
-> Corporate website for an LED display company — [s-n-r.ru](https://s-n-r.ru)
-> ⚠️ Private repository (available on request)
+> Corporate website for an LED display company — [s-n-r.ru](https://s-n-r.ru)  
+> ⚠️ Private repository (available on request)  
 > Go · Gin · PostgreSQL · Docker · Nginx · CI/CD
 
 - JWT auth, CRM for managing requests, Telegram bot with reminders
 - WebP thumbnails, built-in analytics, CSV export
 - 268 unit tests + 14 smoke tests, GitHub Actions CI/CD
 
-### [🌿 Teacher Portfolio](https://github.com/alekarah/teacher-anv-site)
-> Portfolio website for a private tutor — [repetitor-agareva.ru](https://repetitor-agareva.ru)
+### [🌿 Teacher Portfolio](https://github.com/alekarah/teacher-anv-site)  
+> Portfolio website for a private tutor — [repetitor-agareva.ru](https://repetitor-agareva.ru)  
 > Go · Gin · HTML/CSS/JS · Netlify
 
 ---
 
 ## 📚 Open Source
 
-### [🇷🇺 Uber Go Style Guide — Russian Translation](https://github.com/alekarah/uber-go-guide-ru)
-> Complete Russian translation of Uber's Go Style Guide (all 58 sections)
+### [🇷🇺 Uber Go Style Guide — Russian Translation](https://github.com/alekarah/uber-go-guide-ru)  
+> Complete Russian translation of Uber's Go Style Guide (all 58 sections)  
 > [![PR Status](https://img.shields.io/badge/PR%20%23256-Merged-purple?logo=github)](https://github.com/uber-go/guide/pull/256)
 
 ---
