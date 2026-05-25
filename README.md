@@ -1,6 +1,6 @@
 # Alexandra Saganelidze
 
-**Engineer & Technical Architect at [EasyBear](https://easybear.com)**
+**Engineer & Technical Architect at [EasyBear](https://easybear-appliancerepair.com/)**
 
 Building AI-powered insurance platform — from appliance photo recognition to policy lifecycle and claims processing.
 
