@@ -1,132 +1,81 @@
-# Александра Саганелидзе
+# Alexandra Saganelidze
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=900&color=0CA6A6&width=700&lines=Разрабатываю+backend+на+Go+и+Python;Создаю+чистый+и+поддерживаемый+код;Открыта+к+фриланс-проектам+и+сотрудничеству)](#)
+**Engineer & Technical Architect at [EasyBear](https://easybear.com)**
 
-💻 **Backend Developer (Go / Python)**  
-
-[![Status Badge](https://img.shields.io/badge/💼_Открыта_к_фриланс‑проектам-0CA6A6?style=for-the-badge&logoColor=white)]()
+Building AI-powered insurance platform — from appliance photo recognition to policy lifecycle and claims processing.
 
 ---
 
-## 👩‍💻 Обо мне
+## 🔧 Tech Stack
 
-Backend-разработчик с коммерческим опытом.  
-Пишу на Go и Python — от проектирования архитектуры до production-деплоя.
-
-Выбрала Go за лаконичный синтаксис и перспективность — язык,  
-который набирает силу. Python — за универсальность и то, как быстро  
-на нём можно писать. Вместе они дополняют друг друга.
-
-🎯 Приоритет сейчас: фриланс-проекты и open source  
-🌍 Формат: удалёнка  
-💼 Коммерческих проектов: 3 (1 в production, 2 в разработке)
-
----
-
-## 🛠️ Мой стек
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-7B68EE?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Языки:** Go · Python · SQL  
-**Backend:** Gin · GORM · Redis  
-**Frontend:** HTML · CSS · JavaScript (Vanilla) · Go Templates · React · TypeScript  
-**Базы данных:** PostgreSQL · SQLite  
-**Инфраструктура:** Docker · Docker Compose · Nginx · systemd · fail2ban · UFW Firewall  
-**Инструменты:** Git · GitHub Actions · pytest · CI/CD · Linux  
-**Подходы:** REST API · ООП · SOLID · Security Headers
+**Current:** TypeScript · Next.js · React · Supabase · Stripe · Claude AI · Vercel
+**Previous:** Go · Gin · Python · Redis · Docker · Nginx · Linux
 
 ---
 
-## 💼 Коммерческие проекты - 3 (2 в production, 1 в разработке)
+## 💼 Current Project
+
+### EasyBear Insurance
+> AI-powered appliance identification and home warranty platform
+> ⚠️ Private repository
+
+- 🏗️ Full-stack platform: Next.js 16 (App Router), TypeScript, Supabase, Stripe
+- 🤖 Claude Vision API for appliance photo recognition → instant specs and insurance quotes
+- 📊 94,000+ appliance models, 31 database tables, 237 tests
+- 🛡️ AI fraud scoring engine (customer + technician), capitation payment model
+- 💳 Stripe Connect for technician payouts, full policy & claims lifecycle
+- 📱 Responsive UI with Tailwind CSS, shadcn/ui
+
+---
+
+## 💼 Previous Commercial Projects
 
 ### 🖥️ LED Screen Website
-> Корпоративный веб-сайт для компании по продаже, ремонту и обслуживанию LED-дисплеев  
-> Проект развёрнут в **production** — [s-n-r.ru](https://s-n-r.ru)  
-> ⚠️ Репозиторий приватный по просьбе заказчика. Код доступен по запросу.  
-> Go · Gin · GORM · PostgreSQL · Docker · Nginx · HTML/CSS/JS · CI/CD · Unit Tests · Telegram Bot · Security Headers · SEO Ready
+> Corporate website for an LED display company — [s-n-r.ru](https://s-n-r.ru)
+> ⚠️ Private repository (available on request)
+> Go · Gin · PostgreSQL · Docker · Nginx · CI/CD
 
-- 🔐 Авторизация (JWT, bcrypt) и CRM для управления заявками
-- 📲 Telegram-бот с интерактивными кнопками и автонапоминаниями
-- 🖼️ WebP thumbnails с редактором обрезки (экономия 25-35% размера)
-- 📊 Встроенная аналитика + Яндекс.Метрика, экспорт в CSV
-- ⚡ Оптимизация производительности: inline critical CSS, самохостинг шрифтов, HTTP/2, nginx gzip, долгосрочный кэш статики
-- 🧪 268 unit-тестов + 14 smoke-тестов, CI/CD через GitHub Actions + Codecov
-- 🛡️ Production-grade безопасность и ежедневные бэкапы
+- JWT auth, CRM for managing requests, Telegram bot with reminders
+- WebP thumbnails, built-in analytics, CSV export
+- 268 unit tests + 14 smoke tests, GitHub Actions CI/CD
 
-### [🌿 Репетитор — сайт-визитка](https://github.com/alekarah/teacher-anv-site)
-> Сайт-визитка репетитора начальных классов · **[repetitor-agareva.ru](https://repetitor-agareva.ru)**  
-> Go · Gin · HTML/CSS/JS (Vanilla) · Netlify
-
-- 🍃 Анимация смены сезонов с иллюстрациями + адаптивный хедер с цветовой темой по секции
-- 🖼️ Лайтбокс (zoom, pinch, drag), карусель фото, интерактивная диаграмма с tooltip
-- 🌿 SVG-логотип, адаптирующийся к теме секции; полная мобильная адаптация
-- 🚀 Деплой: статика на Netlify (Go — только локально для шаблонизации)
+### [🌿 Teacher Portfolio](https://github.com/alekarah/teacher-anv-site)
+> Portfolio website for a private tutor — [repetitor-agareva.ru](https://repetitor-agareva.ru)
+> Go · Gin · HTML/CSS/JS · Netlify
 
 ---
 
-## 📚 Open Source вклад
+## 📚 Open Source
 
-### [🇷🇺 Uber Go Style Guide (Russian Translation)](https://github.com/alekarah/uber-go-guide-ru)
-> Актуальный русский перевод авторитетного руководства по Go от команды Uber  
+### [🇷🇺 Uber Go Style Guide — Russian Translation](https://github.com/alekarah/uber-go-guide-ru)
+> Complete Russian translation of Uber's Go Style Guide (all 58 sections)
 > [![PR Status](https://img.shields.io/badge/PR%20%23256-Merged-purple?logo=github)](https://github.com/uber-go/guide/pull/256)
 
-- ✅ **Все 58 разделов** полностью переведены на русский язык
-- 📌 Синхронизирован с последней версией оригинала
-- 🆕 Включены новые разделы: управление горутинами, обработка ошибок, табличные тесты
-- 📖 Профессиональный перевод с сохранением технической точности
-- 🔄 Планируется поддержка и синхронизация с будущими обновлениями
-- 📝 PR в upstream для добавления в официальный список переводов
+---
+
+## 🐾 Side Projects
+
+- [🤖 Bestoic Bot](https://github.com/alekarah/bestoic_bot) — Telegram bot for daily Stoic quotes (Python, production on VPS)
+- [🔗 URL Shortener](https://github.com/alekarah/url-shortener-go) — URL shortening service with analytics (Go, PostgreSQL, Redis)
+- [🔐 Password Generator](https://github.com/alekarah/cli-password-generator) — CLI secure password generator (Go + Python)
+- [✅ Task Manager](https://github.com/alekarah/cli-task-manager) — CLI task manager with browser UI (Go + Python + React)
+- [💱 Currency Converter](https://github.com/alekarah/cli-currency-converter) — CLI currency converter with live rates (Go + Python)
 
 ---
 
-## 🐾 Pet Projects
+## 📫 Contact
 
-### [🤖 Bestoic Bot](https://github.com/alekarah/bestoic_bot)
-> Telegram-бот для ежедневной рассылки цитат по стоицизму  
-> **✅ Запущен в production** на VPS (Beget) · живая аудитория подписчиков
-> Python · python-telegram-bot · SQLite · APScheduler · pytest · systemd
-
-- 📅 366 ежедневных размышлений + случайные цитаты стоиков
-- ⏰ Система подписок с гибким расписанием (утро/день/вечер)
-- ❤️ Избранное и шаринг цитат
-- 📚 Библиотека книг для скачивания (fb2, epub, mobi)
-- 🛠️ Админ-панель через Telegram и CLI + поиск дубликатов (TF-IDF)
-- 🚀 Автозапуск через systemd, деплой через Git
-
-### [🔗 URL Shortener Service](https://github.com/alekarah/url-shortener-go)
-> Backend-сервис для сокращения ссылок с веб-интерфейсом и аналитикой  
-> Go · PostgreSQL · Redis · Docker · HTML/CSS/JS
-
-- 🔗 Сокращение URL с кастомными short codes и веб-интерфейсом
-- 📊 Аналитика кликов (IP, User-Agent, referrer) с пагинацией
-- ⚡ Redis-кеширование для быстрых редиректов
-- 🏗️ Clean Architecture (handlers / services / repositories)
-- 🐳 SQL-миграции и Docker Compose
-
----
-
-## 🧪 CLI Projects
-
-- [🔐 CLI Password Generator](https://github.com/alekarah/cli-password-generator) — генератор безопасных паролей (Go + Python)  
-- [✅ CLI Task Manager](https://github.com/alekarah/cli-task-manager) — менеджер задач с сохранением в JSON и браузерным Terminal UI (Go + Python + React/TypeScript)
-- [💱 CLI Currency Converter](https://github.com/alekarah/cli-currency-converter) — конвертер валют с загрузкой актуальных курсов через API (Go + Python)
-
----
-
-## 📫 Контакты
-
-[![Telegram Badge](https://img.shields.io/badge/-@alekarah-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alekarah)
-[![Gmail Badge](https://img.shields.io/badge/-alekarah.all@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekarah.all@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-alekarah-181717?style=for-the-badge&logo=github)](https://github.com/alekarah)
-
----
-
-⭐ Открыта к интересным проектам — пишите в Telegram
+[![LinkedIn](https://img.shields.io/badge/-Alexandra_Saganelidze-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-saganelidze)
+[![Telegram](https://img.shields.io/badge/-@alekarah-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alekarah)
+[![Gmail](https://img.shields.io/badge/-alekarah.all@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekarah.all@gmail.com)
